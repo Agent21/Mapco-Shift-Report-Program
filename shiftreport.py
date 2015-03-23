@@ -80,7 +80,7 @@ def main():
         print("ERROR: Please only enter letters!")
         tube_req = input('Would you like to see your beginning and ending total for each slot? (Enter yes or no): ')
 
-    if tube_req.lower() == "yes" and "y" and "ye":
+    if tube_req.lower() in ("yes", "ye", "y"):
         print("Here's a list of your beginning products")
         print('\n'.join('Slot #{0}: {1}'.format(*k) for k in enumerate(beginning_prod, 1)))
         print()
@@ -156,7 +156,7 @@ def main():
         file_write_req = input('Would you like to store this information in a file? (Enter yes or no): ')
 
     try:
-        if file_write_req.lower() == "yes" and "y" and "ye":
+        if file_write_req.lower() in ("yes", "ye", "y"):
 
             # Create filename constant.
             FILENAME = ("Shift Reports\\Mapco_Shift_Report_" + str(shift) + "_" + date + str(store_num) + '.txt')
