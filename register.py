@@ -37,11 +37,11 @@ class Register:
                 self.__breg = float(input())
 
                 # This is not really the safest way to do this, but if a user inputs too many numbers
-                # past the decimal point, this will truncate them. This is because it's a hassle to create a check
+                # past the decimal point, this will truncate them. I did this because it's a hassle to create a check
                 # that will throw an error if the user enters too many numbers, ie. the self.__breg value is entered
-                #  as a string, then split by the decimal, then it checks to see if it is valid. Finally, the string
-                #  is then converted to a float and the program can safely resume. Doing this would be easy if it
-                #  didn't need to be done within in a for loop. :(
+                # as a string, then split by the decimal, then it checks to see if it is valid. Finally, the string
+                # is then converted to a float and the program can safely resume. Doing this would be easy if it
+                # didn't need to be done within a for loop. :(
                 self.__breg = trunc(self.__breg*100)/100
                 self.__beginning_values.append(self.__breg)
                 self.__beg_reg_count += 1
