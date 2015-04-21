@@ -32,8 +32,8 @@
       <file leaf-file-name="shiftreport.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shiftreport.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48920864" vertical-offset="3043" max-vertical-offset="5321">
-              <caret line="191" column="45" selection-start-line="191" selection-start-column="45" selection-end-line="191" selection-end-column="45" />
+            <state vertical-scroll-proportion="6.556355" vertical-offset="122" max-vertical-offset="5321">
+              <caret line="168" column="33" selection-start-line="168" selection-start-column="33" selection-end-line="168" selection-end-column="33" />
               <folding>
                 <element signature="e#242#251#0" expanded="true" />
               </folding>
@@ -64,7 +64,7 @@
       <file leaf-file-name="safedroplog.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/safedroplog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="1054">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
               <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding />
             </state>
@@ -74,7 +74,7 @@
       <file leaf-file-name="miscinfo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/miscinfo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="782">
+            <state vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="782">
               <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
               <folding />
             </state>
@@ -825,18 +825,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/safedroplog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="1054">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/miscinfo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="782">
           <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/safedroplog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="1054">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -859,8 +859,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shiftreport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48920864" vertical-offset="3043" max-vertical-offset="5321">
-          <caret line="191" column="45" selection-start-line="191" selection-start-column="45" selection-end-line="191" selection-end-column="45" />
+        <state vertical-scroll-proportion="6.556355" vertical-offset="122" max-vertical-offset="5321">
+          <caret line="168" column="33" selection-start-line="168" selection-start-column="33" selection-end-line="168" selection-end-column="33" />
           <folding>
             <element signature="e#242#251#0" expanded="true" />
           </folding>
